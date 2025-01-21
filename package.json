@@ -1,22 +1,15 @@
-{
-  "name": "package",
-  "version": "1.0.0",
-  "description": "sample ",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/K-Chandrakala/sasi-converter.git"
-  },
-  "author": "ck",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/K-Chandrakala/sasi-converter/issues"
-  },
-  "homepage": "https://github.com/K-Chandrakala/sasi-converter#readme",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
-}
+ { 
+ "name": "sasi-converter", 
+ "version": "1.0.0", 
+ "description": "A small tool to convert INR to USD",  "main": "index.js", 
+ "scripts": { 
+ "start": "node index.js", 
+ "test": "jest" 
+ }, 
+ "author": "", 
+ "license": "ISC", 
+ "devDependencies": { 
+ "jest": "^29.7.0" 
+ } 
+} 
+
