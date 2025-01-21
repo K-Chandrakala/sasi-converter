@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/K-Chandrakala/sasi-converter/issues"
   },
-  "homepage": "https://github.com/K-Chandrakala/sasi-converter#readme"
+  "homepage": "https://github.com/K-Chandrakala/sasi-converter#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
