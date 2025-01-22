@@ -3,7 +3,8 @@ name: Converter CI
 on:
   push:
     branches:
-      - "main"
+      - main
+      - api
 
 jobs:
   build:
